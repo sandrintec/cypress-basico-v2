@@ -75,14 +75,14 @@ textarea {
 
 .button {
     font-size: 1.2em;
-    background: #4fc4cf;
+    background: #47a858;
     border: #181818 solid 2px;
     color: #181818;
     padding: 0.8em 1.2em;
     font-weight: bold;
     margin: auto;
     display: block;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .button:hover {
